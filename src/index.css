@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-background: #FAF7EE;
+    --color-surface: #FFFFFF;
+    --color-primary: #14453D;
+    --color-accent: #B9985A;
+    --color-textPrimary: #1E2A26;
+    --color-textSecondary: #66716C;
+    --color-quranBg: #F3EEDF;
+    --color-success: #4C7A5C;
+  }
+  
+  .dark {
+    --color-background: #0E1A17;
+    --color-surface: #16241F;
+    --color-primary: #E9DFC7;
+    --color-accent: #CBAC6F;
+    --color-textPrimary: #F1EDE0;
+    --color-textSecondary: #A7B2AB;
+    --color-quranBg: #142019;
+    --color-success: #6FA383;
+  }
+
+  @font-face {
+    font-family: 'KFGQPC Uthmanic Script HAFS';
+    src: url('/fonts/uthmanic_hafs.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+}
+
+@theme {
+  --font-sans: "IBM Plex Sans Arabic", ui-sans-serif, system-ui, sans-serif;
+  --font-quran: "KFGQPC Uthmanic Script HAFS", "Amiri", serif;
+
+  --color-background: var(--color-background);
+  --color-surface: var(--color-surface);
+  --color-primary: var(--color-primary);
+  --color-accent: var(--color-accent);
+  --color-textPrimary: var(--color-textPrimary);
+  --color-textSecondary: var(--color-textSecondary);
+  --color-quranBg: var(--color-quranBg);
+  --color-success: var(--color-success);
+}

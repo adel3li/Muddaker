@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "gems": [
+    {
+      "id": "gem_001", "order": 1, "type": "ayah",
+      "text": "﴿أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا﴾",
+      "attribution": { "author": "", "source": "سورة محمد: ٢٤", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_002", "order": 2, "type": "hadith",
+      "text": "«خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ»",
+      "attribution": { "author": "", "source": "صحيح البخاري — [يُضاف رقم الحديث]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_003", "order": 3, "type": "quote",
+      "text": "[يُلصَق هنا حرفيًا قولُ ابن القيم في أن قراءة القرآن بالتدبر أنفعُ شيءٍ للقلب]",
+      "attribution": { "author": "ابن القيم", "source": "مدارج السالكين — [الجزء/الصفحة]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_004", "order": 4, "type": "ayah",
+      "text": "﴿كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ﴾",
+      "attribution": { "author": "", "source": "سورة ص: ٢٩", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_005", "order": 5, "type": "athar",
+      "text": "«لَوْ طَهُرَتْ قُلُوبُكُمْ مَا شَبِعَتْ مِنْ كَلَامِ رَبِّكُمْ»",
+      "attribution": { "author": "عثمان بن عفان رضي الله عنه", "source": "[يُوثَّق: المصدر والموضع، ويُتحقَّق من الثبوت والصياغة]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_006", "order": 6, "type": "hadith",
+      "text": "«اقْرَءُوا الْقُرْآنَ؛ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لِأَصْحَابِهِ»",
+      "attribution": { "author": "", "source": "صحيح مسلم — [يُضاف رقم الحديث]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_007", "order": 7, "type": "quote",
+      "text": "[يُلصَق هنا حرفيًا قولٌ لابن تيمية في تدبر القرآن وطلب الهدى منه]",
+      "attribution": { "author": "ابن تيمية", "source": "[الكتاب — الجزء/الصفحة]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_008", "order": 8, "type": "ayah",
+      "text": "﴿وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ﴾",
+      "attribution": { "author": "", "source": "سورة الإسراء: ٨٢", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_009", "order": 9, "type": "hadith",
+      "text": "«الْمَاهِرُ بِالْقُرْآنِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ، وَالَّذِي يَقْرَأُ الْقُرْآنَ وَيَتَتَعْتَعُ فِيهِ وَهُوَ عَلَيْهِ شَاقٌّ لَهُ أَجْرَانِ»",
+      "attribution": { "author": "", "source": "متفق عليه — [تُضاف الأرقام]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_010", "order": 10, "type": "athar",
+      "text": "«مَنْ أَرَادَ الْعِلْمَ فَلْيُثَوِّرِ الْقُرْآنَ؛ فَإِنَّ فِيهِ عِلْمَ الْأَوَّلِينَ وَالْآخِرِينَ»",
+      "attribution": { "author": "عبد الله بن مسعود رضي الله عنه", "source": "[يُوثَّق: المصدر والموضع، ويُتحقَّق من الثبوت والصياغة]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_011", "order": 11, "type": "ayah",
+      "text": "﴿لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّهِ﴾",
+      "attribution": { "author": "", "source": "سورة الحشر: ٢١", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_012", "order": 12, "type": "quote",
+      "text": "[يُلصَق هنا حرفيًا قولٌ لابن الجوزي في تدبر القرآن]",
+      "attribution": { "author": "ابن الجوزي", "source": "صيد الخاطر — [الموضع]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_013", "order": 13, "type": "hadith",
+      "text": "«مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ، وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا، لَا أَقُولُ الم حَرْفٌ، وَلَكِنْ أَلِفٌ حَرْفٌ وَلَامٌ حَرْفٌ وَمِيمٌ حَرْفٌ»",
+      "attribution": { "author": "", "source": "رواه الترمذي — [تُضاف الدرجة والرقم]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_014", "order": 14, "type": "athar",
+      "text": "[يُلصَق هنا حرفيًا أثرُ الحسن البصري في أن تدبُّر القرآن اتباعُه لا حفظُ حروفه]",
+      "attribution": { "author": "الحسن البصري رحمه الله", "source": "[يُوثَّق: المصدر والموضع]", "verified": false },
+      "reviewStatus": "approved"
+    },
+    {
+      "id": "gem_015", "order": 15, "type": "hadith",
+      "text": "«إِنَّ اللَّهَ يَرْفَعُ بِهَذَا الْكِتَابِ أَقْوَامًا، وَيَضَعُ بِهِ آخَرِينَ»",
+      "attribution": { "author": "", "source": "صحيح مسلم — [يُضاف رقم الحديث]", "verified": false },
+      "reviewStatus": "approved"
+    }
+  ]
+}
