@@ -53,7 +53,7 @@ export interface AppState {
 export const useAppStore = create<AppState>()(
   persist(
     (set) => ({
-      theme: 'light',
+      theme: 'dark',
       textSize: 'normal',
       notificationEnabled: false,
       notificationTime: '07:00',
