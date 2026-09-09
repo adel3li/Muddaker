@@ -1,5 +1,5 @@
 import { Outlet, NavLink, useLocation } from 'react-router-dom';
-import { Home, BookOpen, CheckCircle, Settings } from 'lucide-react';
+import { Home, BookOpen, CheckCircle, TrendingUp, Settings } from 'lucide-react';
 import { cn } from '../../lib/utils';
 
 export function AppLayout() {
@@ -14,6 +14,7 @@ export function AppLayout() {
     { to: '/', icon: Home, label: 'الرئيسية' },
     { to: '/journal', icon: BookOpen, label: 'خواطري' },
     { to: '/consistency', icon: CheckCircle, label: 'المداومة' },
+    { to: '/progress', icon: TrendingUp, label: 'التقدم' },
     { to: '/settings', icon: Settings, label: 'الإعدادات' },
   ];
 

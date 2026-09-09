@@ -4,6 +4,7 @@ import { AppLayout } from './components/layout/AppLayout';
 import { Home } from './components/home/Home';
 import { Journal } from './components/journal/Journal';
 import { Consistency } from './components/consistency/Consistency';
+import { Progress } from './components/progress/Progress';
 import { Settings } from './components/settings/Settings';
 import { Session } from './components/session/Session';
 import { Onboarding } from './components/onboarding/Onboarding';
@@ -25,6 +26,7 @@ function AppRoutes() {
         <Route path="/" element={<Home />} />
         <Route path="/journal" element={<Journal />} />
         <Route path="/consistency" element={<Consistency />} />
+        <Route path="/progress" element={<Progress />} />
         <Route path="/settings" element={<Settings />} />
         <Route path="/session/:id" element={<Session />} />
       </Route>
